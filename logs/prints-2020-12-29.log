@@ -1,0 +1,8 @@
+23:43:45.098 [main] INFO  java.lang.Class - Trying to Select Value from Select dropdown..
+23:43:46.129 [main] INFO  java.lang.Class - Value Selected
+23:47:10.613 [main] INFO  java.lang.Class - Application Launched
+23:47:10.632 [main] INFO  java.lang.Class - Trying to click on Confirm
+23:47:11.157 [main] INFO  java.lang.Class - Clicked confirm
+23:47:24.335 [main] INFO  java.lang.Class - Application Launched
+23:47:24.337 [main] INFO  java.lang.Class - Trying to open new tab..
+23:47:28.808 [main] INFO  java.lang.Class - Reading Button text

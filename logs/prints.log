@@ -1,0 +1,57 @@
+23:47:39.171 [main] INFO  java.lang.Class - Application Launched
+23:47:39.187 [main] INFO  java.lang.Class - Trying to Select Value from Select dropdown..
+23:47:39.611 [main] INFO  java.lang.Class - Value Selected
+11:44:26.203 [main] INFO  java.lang.Class - Application Launched
+11:44:26.273 [main] INFO  java.lang.Class - Trying to click on Confirm
+11:44:26.678 [main] INFO  java.lang.Class - Clicked confirm
+11:44:35.800 [main] INFO  java.lang.Class - Application Launched
+11:44:35.803 [main] INFO  java.lang.Class - Trying to open new tab..
+11:44:40.329 [main] INFO  java.lang.Class - Reading Button text
+11:44:47.246 [main] INFO  java.lang.Class - Application Launched
+11:44:47.262 [main] INFO  java.lang.Class - Trying to Select Value from Select dropdown..
+11:44:47.797 [main] INFO  java.lang.Class - Value Selected
+11:47:02.895 [main] INFO  java.lang.Class - Application Launched
+11:47:02.924 [main] INFO  java.lang.Class - Trying to click on Confirm
+11:47:03.217 [main] INFO  java.lang.Class - Clicked confirm
+11:47:11.858 [main] INFO  java.lang.Class - Application Launched
+11:47:11.860 [main] INFO  java.lang.Class - Trying to open new tab..
+11:47:16.368 [main] INFO  java.lang.Class - Reading Button text
+11:47:22.236 [main] INFO  java.lang.Class - Application Launched
+11:47:22.239 [main] INFO  java.lang.Class - Trying to Select Value from Select dropdown..
+11:47:22.793 [main] INFO  java.lang.Class - Value Selected
+11:49:59.103 [main] INFO  java.lang.Class - Application Launched
+11:49:59.124 [main] INFO  java.lang.Class - Trying to click on Confirm
+11:49:59.523 [main] INFO  java.lang.Class - Clicked confirm
+11:50:08.635 [main] INFO  java.lang.Class - Application Launched
+11:50:08.638 [main] INFO  java.lang.Class - Trying to open new tab..
+11:50:13.044 [main] INFO  java.lang.Class - Reading Button text
+11:50:19.725 [main] INFO  java.lang.Class - Application Launched
+11:50:19.733 [main] INFO  java.lang.Class - Trying to Select Value from Select dropdown..
+11:50:20.402 [main] INFO  java.lang.Class - Value Selected
+11:52:15.906 [main] INFO  java.lang.Class - Application Launched
+11:52:15.966 [main] INFO  java.lang.Class - Trying to click on Confirm
+11:52:16.650 [main] INFO  java.lang.Class - Clicked confirm
+11:52:29.194 [main] INFO  java.lang.Class - Application Launched
+11:52:29.198 [main] INFO  java.lang.Class - Trying to open new tab..
+11:52:34.092 [main] INFO  java.lang.Class - Reading Button text
+11:52:43.666 [main] INFO  java.lang.Class - Application Launched
+11:52:43.677 [main] INFO  java.lang.Class - Trying to Select Value from Select dropdown..
+11:52:44.847 [main] INFO  java.lang.Class - Value Selected
+15:07:15.881 [main] INFO  java.lang.Class - Application Launched
+15:07:15.954 [main] INFO  java.lang.Class - Trying to click on Confirm
+15:07:16.258 [main] INFO  java.lang.Class - Clicked confirm
+15:07:27.476 [main] INFO  java.lang.Class - Application Launched
+15:07:27.481 [main] INFO  java.lang.Class - Trying to open new tab..
+15:07:31.960 [main] INFO  java.lang.Class - Reading Button text
+15:07:38.663 [main] INFO  java.lang.Class - Application Launched
+15:07:38.674 [main] INFO  java.lang.Class - Trying to Select Value from Select dropdown..
+15:07:39.105 [main] INFO  java.lang.Class - Value Selected
+21:08:04.969 [main] INFO  java.lang.Class - Application Launched
+21:08:05.003 [main] INFO  java.lang.Class - Trying to click on Confirm
+21:08:05.397 [main] INFO  java.lang.Class - Clicked confirm
+21:08:14.349 [main] INFO  java.lang.Class - Application Launched
+21:08:14.352 [main] INFO  java.lang.Class - Trying to open new tab..
+21:08:18.865 [main] INFO  java.lang.Class - Reading Button text
+21:08:27.573 [main] INFO  java.lang.Class - Application Launched
+21:08:27.578 [main] INFO  java.lang.Class - Trying to Select Value from Select dropdown..
+21:08:28.025 [main] INFO  java.lang.Class - Value Selected
