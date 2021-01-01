@@ -24,7 +24,7 @@ import Resources.Base;
 import junit.framework.Assert;
 
 
-// This is sample test Comment by User 1.
+// This is sample test : Changes here
 
 public class MyTest extends Base{
 	
